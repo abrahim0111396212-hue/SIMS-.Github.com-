@@ -1,0 +1,22 @@
+{
+  "background_color": "#a698a3",
+  "description": "Smart_stock",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SIMS-.Github.com-",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SIMS-.Github.com-",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "1.1",
+  "categories": [
+    "business",
+    "food",
+    "health",
+    "medical",
+    "productivity",
+    "shopping",
+    "utilities"
+  ]
+}
